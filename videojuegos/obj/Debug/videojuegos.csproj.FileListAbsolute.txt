@@ -1,0 +1,10 @@
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\bin\Debug\videojuegos.exe.config
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.Form1.resources
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\bin\Debug\videojuegos.exe
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\bin\Debug\videojuegos.pdb
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.exe
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.pdb
+C:\Users\Gerardo\Desktop\videojuegos\videojuegos\obj\Debug\videojuegos.Videojuegos.resources
